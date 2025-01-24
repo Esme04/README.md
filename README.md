@@ -1,5 +1,3 @@
-# README.md
-
 # Hola, me llamo Esmeralda Rodriguez 👋
 Soy ingeniera en redes y telecomunicaciones, pero me especializo en desarrollo web, así como en diseño digital.
 
