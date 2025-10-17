@@ -1,5 +1,5 @@
 # Hola, me llamo Esmeralda Rodriguez 👋
-Soy ingeniera en redes y telecomunicaciones, pero me especializo en desarrollo web, así como en diseño digital.
+Soy ingeniera en redes y telecomunicaciones.
 
 
 ## 🚀 Ask about me
